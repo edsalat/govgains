@@ -1,0 +1,38 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.cuppafame.govgains"
+    },
+    "jhipsterVersion": "6.7.1",
+    "applicationType": "monolith",
+    "baseName": "govgains",
+    "packageName": "com.cuppafame.govgains",
+    "packageFolder": "com/cuppafame/govgains",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "no",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "no",
+    "devDatabaseType": "no",
+    "prodDatabaseType": "no",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "gradle",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "YmVjYTFlOTYwZjYwMjRlZTcyODQxMDg3NjBiYWUyNTIyMzZkODk1YzBlMzBjNWJlOWJiMDljZmE0YWVhOTRhYzJlYmI0YjQ5YzY0OGMxNmZmODVjZmNiMjQ0ZDAwYTU0NTMyZTZiYmExZWRjZjllOGYyZjk1YzdlOTAzYWRhZWE=",
+    "embeddableLaunchScript": false,
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "skipClient": true,
+    "creationTimestamp": 1582758881041,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false,
+    "blueprints": []
+  }
+}
